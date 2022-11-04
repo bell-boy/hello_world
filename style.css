@@ -1,0 +1,11 @@
+#container{
+	display: flex;
+	justify-content: center;
+	height: 97vh;
+	align-items: center;
+}
+
+span{
+	font-family: Verdana;
+	font-size: 5vw;
+}
